@@ -15,4 +15,4 @@ to execute in cmd:
 java -jar Main.jar
 	
 This program compares the first 10 vectors iterated 1000 times for block and hash ciphers.
-The output is the average time in ns for each vector.
+The output is the average time in nanoseconds for each vector.
